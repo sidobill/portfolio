@@ -16,7 +16,7 @@ I'm **Sidney Moreira de Morais Junior**, a dedicated Azure Cloud Engineer & Infr
 
 - **Digital Law** - PUC-SP
 - **Computer Networks** - FATEC-Osasco
-- **Microsoft Certifications:** AZ-104, AZ-700, SC-200, and more.
+- **Microsoft Certifications:** AZ-104, AZ-700, SC-200, GCP Admin and more.
 
 ## 📈 Projects & Contributions
 
