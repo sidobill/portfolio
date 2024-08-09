@@ -1,0 +1,24 @@
+{
+  "properties": {
+    "displayName": "Audit unencrypted SQL databases",
+    "description": "Audit SQL databases that do not have Transparent Data Encryption (TDE) enabled.",
+    "policyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Sql/servers/databases"
+          },
+          {
+            "field": "Microsoft.Sql/servers/databases/transparentDataEncryption.status",
+            "notEquals": "Enabled"
+          }
+        ]
+      },
+      "then": {
+        "effect": "audit"
+      }
+    }
+  },
+  "type": "Microsoft.Authorization/policyDefinitions"
+}
