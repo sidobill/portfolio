@@ -6,8 +6,8 @@ I'm **Sidney Moreira de Morais Junior**, a dedicated Azure Cloud Engineer & Infr
 
 ## 🔧 Technologies & Skills
 
-- **Azure Cloud:** Networking, IAM on Entra ID, Azure AD B2C, RBAC, Azure Firewall
-- **Infrastructure:** Firewalls (Fortinet, Palo Alto), Load Balancers (FortiADC, F5), Cisco ASA/Meraki Wi-Fi controllers
+- **Azure Cloud:** IAM on Entra ID, Azure AD B2C, RBAC, Azure Firewall
+- **Infrastructure & Networking:** Firewalls (Fortinet, Palo Alto), Load Balancers (FortiADC, F5), Cisco ASA/Meraki Wi-Fi controllers, IaaS, ADO CI/CD pipelines deployment
 - **Cloud Security & Compliance:** Azure Policies, Azure Migrate, Azure Arc, Azure Lighthouse
 - **Cost Optimization:** FinOps Certified, skilled in budget control and cost efficiency
 - **MDM Solutions:** Expert in Microsoft Intune for device management
